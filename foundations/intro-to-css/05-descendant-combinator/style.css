@@ -1,0 +1,27 @@
+ /* Elements Only */
+ 
+ /*
+ div p {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+*/
+
+/* Classes Only */
+
+/*
+.container .text {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+*/
+
+/* Element and class combination */
+
+.container p {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
