@@ -23,3 +23,21 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+/* These are the changes that I made the style sheet */
+ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  gap: 8px;
+}
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+}
+
+
